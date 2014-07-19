@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Inherit some common cyanogenmod stuff.
+# Inherit some common aicp stuff.
 $(call inherit-product-if-exists, vendor/aicp/configs/common_tablet.mk)
 
 #TARGET_SCREEN_WIDTH := 600
